@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import biblioteka.Interfejs.BibliotekaInterface;
 
 public class Biblioteka implements BibliotekaInterface {
-//privatna lista sa svim knjigama u biblioteci
+
 	private LinkedList<Knjiga> knjige = new LinkedList<Knjiga>();
 	
 	//nepotreban komentar 2
